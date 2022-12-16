@@ -1,0 +1,46 @@
+
+
+    body, html {
+        height: 100%;
+        margin: 0;
+      }
+      
+      .contact{
+
+        background-image: url("arxafon.jpg");
+      
+        height: 100%; 
+       padding: 10px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+   
+
+.content2 {
+    background-color: rgb(176, 117, 117);
+
+    width: 30rem;
+    border: 1px solid rgb(29, 54, 29);
+    padding: 10px;
+    margin-left: 420px;
+
+}
+.contact .content2 h3{
+    color:  rgb(229, 231, 233);
+    margin-left: 180px;
+}
+
+.inputbox {
+    block-size: 80px;
+    color: rgb(19, 59, 59);
+}
+
+ .btn {
+
+    margin-left: 200px;
+
+    font-size: 1rem;
+  
+ 
+}
